@@ -1,4 +1,7 @@
 # Build and Release Folders
+bin/
+out/
+test/
 bin-debug/
 bin-release/
 
@@ -7,3 +10,6 @@ bin-release/
 .flexProperties
 .settings/
 .project
+.ipr
+.iml
+.iws
