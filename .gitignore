@@ -10,6 +10,6 @@ bin-release/
 .flexProperties
 .settings/
 .project
-.ipr
-.iml
-.iws
+*.ipr
+*.iml
+*.iws
