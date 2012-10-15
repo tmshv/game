@@ -1,6 +1,7 @@
 # Build and Release Folders
 bin/
 out/
+obj/
 test/
 bin-debug/
 bin-release/
@@ -13,3 +14,4 @@ bin-release/
 *.ipr
 *.iml
 *.iws
+*.as3proj
